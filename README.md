@@ -4,9 +4,9 @@
 This project was made so you can do a simple to-do list. Just add a task, click on the button and it will show up in the list below. Add multiple tasks, mark them as done or remove from the list. Enjoy!
 
 ## How it works
-![App GIF](todo-list.gif)
+![App GIF](https://github.com/KajaKopczynska/todo-list-react/blob/main/public/to-do-list%20animation.gif)
 ## Demo
-[https]()
+[https://kajakopczynska.github.io/todo-list-react/](https://kajakopczynska.github.io/todo-list-react/)
 ## Technologies:
 - JavaScript
 - React (Babel, JSX)
