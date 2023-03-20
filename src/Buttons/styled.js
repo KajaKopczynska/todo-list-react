@@ -5,7 +5,7 @@ export const Wrapper = styled.div`
     flex-wrap: wrap;
 `;
 
-export const Button = styled.div`
+export const Button = styled.button`
     border: none;
     color: hsl(180, 100%, 30%);
     background: transparent;
