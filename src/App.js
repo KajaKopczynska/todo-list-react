@@ -1,19 +1,18 @@
-import { Link, Route, HashRouter, Switch, Redirect } from "react-router-dom";
+import { Route, HashRouter, Switch, Redirect } from "react-router-dom";
 import TasksPage from "./features/tasks/TasksPage";
 import TaskPage from "./features/tasks/TaskPage";
 import TipsPage from "./features/tips/TipsPage";
-
-
+import { StyledNavLink } from "./styled";
 
 export default () => (
   <HashRouter>
     <nav>
       <ul>
         <li>
-          <Link to="/zadania">Zadania</Link>
+          <StyledNavLink to="/zadania">Zadania</StyledNavLink>
         </li>
         <li>
-          <Link to="/tipy">Wskazówki</Link>
+          <StyledNavLink to="/tipy">Wskazówki</StyledNavLink>
         </li>
       </ul>
       <Switch>
