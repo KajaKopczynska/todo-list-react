@@ -1,8 +1,6 @@
 import styled from "styled-components";
 import { NavLink } from "react-router-dom/cjs/react-router-dom.min";
 
-const activeClassName = "link-active";
-
 export const StyledNavLink = styled(NavLink)`
     color: white;
     text-decoration:none;
