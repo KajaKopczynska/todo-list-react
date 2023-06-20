@@ -1,6 +1,9 @@
 # To Do List App
+## Demo
 
-## Description:
+Try it out - [Click here!](https://kajakopczynska.github.io/todo-list-react/)
+## Description
+
 This project was made so you can do a simple to-do list:
 - You can add a new tasks,
 - You can download sample tasks ⬇️,
@@ -12,19 +15,24 @@ This project was made so you can do a simple to-do list:
 - You can search for a task using the search engine 🔎,
 - In a separate tab, you can read about the rules for creating an effective task list 📃.
 - Enjoy it 😄!
-
-
 ## How it works
-![App GIF](https://github.com/KajaKopczynska/todo-list-react/blob/main/public/to-do-list%20animation.gif)
-## Demo
-[https://kajakopczynska.github.io/todo-list-react/](https://kajakopczynska.github.io/todo-list-react/)
-## Technologies:
-- HTML
-- REACT.JS
-- WEBPACK
-- BABEL
-- STYLED COMPONENTS
+
+![App GIF](public/to-do-list-animation.gif)
+## Technologies
+
+- REACT
 - REDUX
+- JAVA SCRIPT
+- HTML
+- CSS
+- STYLED COMPONENTS
+- GIT
+- GITHUB
+- VISUAL STUDIO CODE
+
+[![Technologies](https://skillicons.dev/icons?i=react,redux,js,html,css,styledcomponents,git,github,vscode)](https://skillicons.dev)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
